@@ -1,0 +1,10 @@
+The Goals:
+
+1. Open 'https://tutorialsninja.com/demo/'
+2. Select 2 iPhones
+3. Going through all the iPhone product picture by using side button
+4. Take screenshot
+5. Select 1 Laptop
+6. Select delivery date 02-03-2000
+7. Creating a guest account and complete the check out process.
+8. Print the total price and the confirmation message in the console.
